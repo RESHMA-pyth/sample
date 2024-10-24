@@ -1,0 +1,10 @@
+Git clone https://github.com/RESHMA-pyth/Git-command.git
+Git and Github  
+alternatives : bitbucket,AWS,gitlab
+
+git add .>>> add file to the staging alternatives
+
+git commit -m "message" >>> to commit changes in the tracked file
+
+git push origin main >>> pushing the file to the main branch in github repository
+
