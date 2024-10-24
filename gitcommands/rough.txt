@@ -1,0 +1,9 @@
+git clone https://github.com/RESHMA-pyth/rough-repsitory.git
+
+my name is reshma dinesan 
+
+i am a 25 year old data analyst
+
+i have completed my post graduation in physics from sree narayana college
+
+i am currently working as a anaalyst
