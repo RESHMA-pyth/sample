@@ -1,4 +1,4 @@
-Git clone https://github.com/RESHMA-pyth/Git-command.git
+Git clone https://github.com/RESHMA-pyth/git-command-new.git
 Git and Github  
 alternatives : bitbucket,AWS,gitlab
 
